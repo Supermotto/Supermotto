@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Pedro :D
+- 👋 Hi, I’m Pedro
 - 👀 I’m interested in People Analytics, BI, IOT...
 - 🌱 I’m currently learning Alteryx, Python, R.
 - 💞️ I’m looking to collaborate on Python, Alteryx, Power BI, R.
